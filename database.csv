@@ -1,0 +1,17 @@
+symbol,hold,country,item,item_value,updatedby,updatetime
+AAAA,1,United States,cusip,A234AC,petroineos,2024-06-03 17:50:00.152850
+AAAA,1,United States,isin,US01222911,petroineos,2024-06-03 17:50:00.152850
+BBBB,1,United Kingdom,cusip,123998,petroineos,2024-06-03 17:50:00.154956
+BBBB,1,United Kingdom,isin,GB12222201,petroineos,2024-06-03 17:50:00.154956
+CCCC,0,United States,cusip,G129111,petroineos,2024-06-03 17:50:00.156749
+CCCC,0,United States,isin,US01239811,petroineos,2024-06-03 17:50:00.156749
+DDDD,1,Italy,cusip,78321,petroineos,2024-06-03 17:50:00.166767
+DDDD,1,Italy,isin,IT92812323,petroineos,2024-06-03 17:50:00.166767
+GGGG,1,Belgium,cusip,B54334AC,petroineos,2024-06-03 17:50:00.181361
+GGGG,1,Belgium,isin,BE012568156,petroineos,2024-06-03 17:50:00.181361
+BBBB,1,United Kingdom,cusip,123998,petroineos,2024-06-03 17:50:00.183301
+BBBB,1,United Kingdom,isin,GB12222201,petroineos,2024-06-03 17:50:00.183301
+CCCC,1,United States,cusip,G129111,petroineos,2024-06-03 17:50:00.185252
+CCCC,1,United States,isin,US01239811,petroineos,2024-06-03 17:50:00.185252
+AAAA,0,United States,cusip,A234AC,petroineos,2024-06-03 17:50:00.199051
+AAAA,0,United States,isin,US01222911,petroineos,2024-06-03 17:50:00.199051
